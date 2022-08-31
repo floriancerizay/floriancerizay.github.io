@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Premier Lauriers de RAFTING en IDF"
-date:   2022-08-31 08:00:00
+date:   2022-08-10 08:00:00
 ---
 Bonjour à tous,
 
